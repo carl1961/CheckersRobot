@@ -1,0 +1,5 @@
+*.o
+api
+.vscode
+src
+unitTestQueue
